@@ -15,14 +15,17 @@ Built for **jarvis.care** — an AI-powered clinical assistant for homeopathic p
 
 
 ## Project Structure
+## Project Structure
+
+```
 boericke-scraper/
 ├── scraper.py              # Main scraper script
 ├── requirements.txt        # Pinned dependencies
 ├── README.md               # This file
 ├── boericke_remedies.json  # Full dataset (688 remedies)
 ├── sample_output.json      # 5 remedy sample
-└── failed_urls.txt         # URLs that failed 
----
+└── failed_urls.txt         # URLs that failed
+```
 
 ## Setup
 
